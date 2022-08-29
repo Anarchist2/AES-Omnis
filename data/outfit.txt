@@ -1,6 +1,4 @@
-#		-	-	-	-	-	-	-	-	-	-
 #	Developer
-#		-	-	-	-	-	-	-	-	-	-
 
 outfit "Extra Outfit"
 	category "Cheat"
@@ -552,9 +550,7 @@ outfitter "pug vanilla"
 	"Pug Zapper"
 	"Tier 3 Anti-Missile"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Ascension
-#		-	-	-	-	-	-	-	-	-	-
 
 outfit "Crux Stone "
 	category "Cheat"

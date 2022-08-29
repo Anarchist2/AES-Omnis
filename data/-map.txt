@@ -2,9 +2,7 @@ galaxy "omnis"
 	sprite "sprite/galaxy half"
 	pos 0 -10000
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Central
-#		-	-	-	-	-	-	-	-	-	-
 
 system "Omnis"
 	pos 56 -9989
@@ -128,6 +126,7 @@ planet "Everything"
 	description ``
 	spaceport ``
 	outfitter "omnis"
+	outfitter "developer"
 	outfitter "plugins"
 	outfitter "coalition plugins"
 	outfitter "coalition vanilla"
@@ -152,6 +151,7 @@ planet "Everything"
 	outfitter "wanderer plugins"
 	outfitter "wanderer vanilla"
 	shipyard "omnis"
+	shipyard "developer"
 	shipyard "plugins"
 	shipyard "coalition plugins"
 	shipyard "coalition vanilla"
@@ -210,6 +210,7 @@ planet "Plugins"
 	description ``
 	spaceport ``
 	outfitter "omnis"
+	outfitter "developer"
 	outfitter "plugins"
 	outfitter "coalition plugins"
 	outfitter "drak plugins"
@@ -223,6 +224,7 @@ planet "Plugins"
 	outfitter "sheragi plugins"
 	outfitter "wanderer plugins"
 	shipyard "omnis"
+	shipyard "developer"
 	shipyard "plugins"
 	shipyard "coalition plugins"
 	shipyard "drak plugins"
@@ -2018,9 +2020,7 @@ planet "Unknown Vanilla"
 	shipyard "unknown vanilla"
 	bribe 0
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Gateways
-#		-	-	-	-	-	-	-	-	-	-
 
 planet "remnant gateway"
 	attributes "requires: Omnis"

@@ -1,6 +1,4 @@
-#		-	-	-	-	-	-	-	-	-	-
 #	Sheragi
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Black Diamond "
 	government "arena"
@@ -16,9 +14,7 @@ fleet "Emerald Sword "
 		"Emerald Sword"
 		"Black Diamond" 6
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Human
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Auxiliary "
 	government "arena"
@@ -73,9 +69,7 @@ fleet "Rainmaker "
 	variant
 		"Rainmaker"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Hai
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Shield Beetle "
 	government "arena"
@@ -84,9 +78,7 @@ fleet "Shield Beetle "
 	variant
 		"Shield Beetle"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Remnant
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Albatross "
 	government "arena"
@@ -115,9 +107,7 @@ fleet "Tern "
 	variant
 		"Tern"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Builder
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Faes'mar "
 	government "arena"
@@ -132,9 +122,7 @@ fleet "Vareti'het "
 	variant
 		"Vareti'het"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Korath
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Kar Ik Vot 349 "
 	government "arena"
@@ -142,20 +130,6 @@ fleet "Kar Ik Vot 349 "
 		"heroic"
 	variant
 		"Kar Ik Vot 349"
-fleet "Korath Dredger "
-	government "arena"
-	personality
-		"heroic"
-	variant
-		"Korath Chaser" 4
-		"Korath Dredger"
-fleet "Korath Raider "
-	government "arena"
-	personality
-		"heroic"
-	variant
-		"Korath Chaser" 2
-		"Korath Raider"
 fleet "Korath World-Ship "
 	government "arena"
 	personality
@@ -168,10 +142,22 @@ fleet "Model 512 "
 		"heroic"
 	variant
 		"Model 512"
+fleet "Palavret "
+	government "arena"
+	personality
+		"heroic"
+	variant
+		"'olofez" 2
+		"Palavret"
+fleet "Rano'erek "
+	government "arena"
+	personality
+		"heroic"
+	variant
+		"'olofez" 4
+		"Rano'erek"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Wanderer
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Hurricane "
 	government "arena"
@@ -180,9 +166,7 @@ fleet "Hurricane "
 	variant
 		"Hurricane"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Coalition
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Heliarch Punisher "
 	government "arena"
@@ -191,9 +175,7 @@ fleet "Heliarch Punisher "
 	variant
 		"Heliarch Punisher"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Quarg
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Quarg Skylark "
 	government "arena"
@@ -208,9 +190,7 @@ fleet "Quarg Wardragon "
 	variant
 		"Quarg Wardragon"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Drak
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Archon "
 	government "arena"
@@ -219,9 +199,7 @@ fleet "Archon "
 	variant
 		"Archon"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Pug
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Pug Arfecta "
 	government "arena"
@@ -230,9 +208,7 @@ fleet "Pug Arfecta "
 	variant
 		"Pug Arfecta"
 
-#		-	-	-	-	-	-	-	-	-	-
 #	Unknown
-#		-	-	-	-	-	-	-	-	-	-
 
 fleet "Void Sprite "
 	government "arena"
